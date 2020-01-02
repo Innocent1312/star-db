@@ -1,1 +1,0 @@
-{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,KACE,QAAS,CACV,OAGC,iBAAkB","file":"main.001271b4.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n\n.hello {\n  text-align: center;\n}"]}

@@ -9,9 +9,14 @@ export default class RandomPlanet extends Component {
     planet: {}
   };
 
-  constructor(props) {
-    super(props);
-    this.updatePlanet();
+  componentDidMount() {
+    this.swapiService
+      .getPlanet(2)
+      .then(this.onPlanetLoaded);
+  }
+
+  componentDidUpdate(prevProps, prevState, snapshot) {
+    this.updatePlanet()
   }
 
   onPlanetLoaded = (planet) => {
@@ -19,10 +24,12 @@ export default class RandomPlanet extends Component {
   };
 
   updatePlanet() {
-    const id = 12;
-    this.swapiService
-      .getPlanet(id)
-      .then(this.onPlanetLoaded);
+    setTimeout(()=>{
+      const id = Math.floor(Math.random() * 17) + 2;
+      this.swapiService
+        .getPlanet(id)
+        .then(this.onPlanetLoaded);
+    }, 1500)
   }
 
   render() {

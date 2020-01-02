@@ -1,3 +1,10 @@
+@import "src/components/Header/Header";
+@import "src/components/ItemList/ItemList";
+@import "src/components/PersonDetails/PersonDetails";
+@import "src/components/PlanetDetails/PlanetDetails";
+@import "src/components/RandomPlanet/RandomPlanet";
+@import "src/components/StarshipDetails/StarshipDetails";
+
 body {
   margin: 0;
 }

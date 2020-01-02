@@ -5,9 +5,7 @@ import SwapiService from './api/SwapiService';
 import Header from './components/Header';
 import ItemList from './components/ItemList';
 import PersonDetails from './components/PersonDetails';
-import PlanetDetails from './components/PlanetDetails';
 import RandomPlanet from './components/RandomPlanet';
-import StarshipDetails from './components/StarshipDetails';
 
 const swapi = new SwapiService();
 
@@ -15,15 +13,19 @@ swapi.getPerson(3).then(p => {console.log(p.name)});
 
 const App = () => {
   return (
-    <>
-      <h1 className="hello">Hello</h1>
-      <Header/>
-      <ItemList/>
-      <PersonDetails/>
-      <PlanetDetails/>
-      <RandomPlanet/>
-      <StarshipDetails/>
-    </>
+    <div>
+      <Header />
+      <RandomPlanet />
+
+      <div className="row mb2">
+        <div className="col-md-6">
+          <ItemList />
+        </div>
+        <div className="col-md-6">
+          <PersonDetails />
+        </div>
+      </div>
+    </div>
   );
 };
 

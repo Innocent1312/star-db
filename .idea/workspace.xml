@@ -2,30 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ae03753-5553-490a-b8be-6720de013653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api/SwapiService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ItemList/ItemList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ItemList/ItemList.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ItemList/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PersonDetails/PersonDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PersonDetails/PersonDetails.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PersonDetails/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlanetDetails/PlanetDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlanetDetails/PlanetDetails.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PlanetDetails/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RandomPlanet/RandomPlanet.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RandomPlanet/RandomPlanet.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RandomPlanet/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/StarshipDetails/StarshipDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/StarshipDetails/StarshipDetails.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/StarshipDetails/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/bootstrap.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/SwapiService.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/SwapiService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ItemList/ItemList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ItemList/ItemList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ItemList/ItemList.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ItemList/ItemList.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PersonDetails/PersonDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonDetails/PersonDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PersonDetails/PersonDetails.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PersonDetails/PersonDetails.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RandomPlanet/RandomPlanet.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RandomPlanet/RandomPlanet.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RandomPlanet/RandomPlanet.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RandomPlanet/RandomPlanet.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577976216464</updated>
-      <workItem from="1577976223030" duration="5030000" />
+      <workItem from="1577976223030" duration="6504000" />
     </task>
     <servers />
   </component>
@@ -134,21 +121,21 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="154" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.800@0.0.1280.800" timestamp="1577977542214" />
-    <state width="1259" height="193" key="GridCell.Tab.0.bottom" timestamp="1577981735836">
+    <state width="1259" height="193" key="GridCell.Tab.0.bottom" timestamp="1577989399149">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577981735836" />
-    <state width="1259" height="193" key="GridCell.Tab.0.center" timestamp="1577981735833">
+    <state width="1259" height="193" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1577989399149" />
+    <state width="1259" height="193" key="GridCell.Tab.0.center" timestamp="1577989399148">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1577981735833" />
-    <state width="1259" height="193" key="GridCell.Tab.0.left" timestamp="1577981735833">
+    <state width="1259" height="193" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1577989399148" />
+    <state width="1259" height="193" key="GridCell.Tab.0.left" timestamp="1577989399147">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1577981735833" />
-    <state width="1259" height="193" key="GridCell.Tab.0.right" timestamp="1577981735834">
+    <state width="1259" height="193" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1577989399147" />
+    <state width="1259" height="193" key="GridCell.Tab.0.right" timestamp="1577989399148">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1259" height="193" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1577981735834" />
+    <state width="1259" height="193" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1577989399148" />
   </component>
 </project>

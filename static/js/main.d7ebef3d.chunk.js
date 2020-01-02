@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-db"]=this["webpackJsonpstar-db"]||[]).push([[0],{3:function(e,t,n){e.exports=n(9)},8:function(e,t,n){},9:function(e,t,n){"use strict";n.r(t);var r=n(0),o=n.n(r),a=n(2),s=n.n(a),c=(n(8),function(){return o.a.createElement("h1",{className:"hello"},"Hello World")});s.a.render(o.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.d7ebef3d.chunk.js.map

@@ -11,12 +11,15 @@
 
       &:hover {
         background-color: #444;
+
       }
     }
   }
 
-  a:hover {
-    text-decoration: none;
+  a {
+    &:hover {
+      text-decoration: none;
+    }
   }
 
   h3 {
@@ -24,7 +27,6 @@
       color: white;
       &:hover {
         color: #00bc8c;
-
       }
     }
   }

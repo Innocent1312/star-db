@@ -1,6 +1,8 @@
 .random-planet {
   display: flex;
   padding: 1rem;
+  border: 1px solid #444;
+  min-width: min-content;
 
   .planet-image {
     width: 150px;
@@ -17,7 +19,6 @@
 
       .term {
         margin-right: .5rem;
-
       }
     }
   }

@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './PersonDetails.scss';
 
 export default class PersonDetails extends Component {
 

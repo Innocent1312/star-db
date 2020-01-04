@@ -1,14 +1,3 @@
-@import "src/components/Header/Header";
-@import "src/components/ItemList/ItemList";
-@import "src/components/PersonDetails/PersonDetails";
-@import "src/components/PlanetDetails/PlanetDetails";
-@import "src/components/RandomPlanet/RandomPlanet";
-@import "src/components/StarshipDetails/StarshipDetails";
-
-body {
-  margin: 0;
-}
-
-.hello {
-  text-align: center;
+.toggle-planet {
+  margin-bottom: 1rem;
 }
